@@ -148,7 +148,7 @@ flowchart TD
 
 Analyzes customer-level net sales across FY2019, FY2020 and FY2021.
 
-![Customer Sales Performance](./screenshots/customer_performance.png)
+![Customer Sales Performance](./screenshots/Screenshot%20customers%20net%20sale%20performance.png)
 
 **Business Questions Addressed:**
 

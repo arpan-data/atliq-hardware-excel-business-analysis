@@ -1,3 +1,5 @@
+![AtliQ Hardware Excel Analytics](./screenshots/excel_project_cover.png)
+
 # AtliQ Hardware | Sales & Financial Analytics Using Excel
 
 ### Transforming Business Data into Actionable Insights
